@@ -10,7 +10,7 @@ namespace Sales501
     {
         public static void Main(string[] args)
         {
-
+            UI.Start(args);
         }
     }
 }
